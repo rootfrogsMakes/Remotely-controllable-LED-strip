@@ -1,7 +1,7 @@
 # Remotely controllable LED strip
 Arduino project to control an animated RGB LED strip with any IR remote control.
 
-#Partlist
+## Partlist
 * Breadboard
 * 5 cables
 * Arduino Nano
@@ -10,7 +10,7 @@ Arduino project to control an animated RGB LED strip with any IR remote control.
 * IR2IO Modul
 * USB Power supply
 
-#Hardware connections
+## Hardware connections
 * WS2812 Data --> D2
 * WS2812 Vin --> 5V
 * WS2812 GND --> GND
@@ -21,6 +21,6 @@ Arduino project to control an animated RGB LED strip with any IR remote control.
 * IR2IO Vin --> 5V
 * IR2IO GND --> GND
 
-#Details
+## Details
 Find more details about this project on Hackaday.io:
 https://hackaday.io/project/176189-rgb-led-strip-controlled-by-ir-remote-control
