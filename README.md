@@ -25,5 +25,5 @@ Arduino project to control an animated RGB LED strip with any IR remote control.
 Adafruit Neopixel library
 
 ## Details
-Find more details about this project on Hackaday.io:
+Find more details about this project on Hackaday.io:<br/>
 https://hackaday.io/project/176189-rgb-led-strip-controlled-by-ir-remote-control
