@@ -21,6 +21,9 @@ Arduino project to control an animated RGB LED strip with any IR remote control.
 * IR2IO Vin --> 5V
 * IR2IO GND --> GND
 
+## Dependencies
+Adafruit Neopixel library
+
 ## Details
 Find more details about this project on Hackaday.io:
 https://hackaday.io/project/176189-rgb-led-strip-controlled-by-ir-remote-control
