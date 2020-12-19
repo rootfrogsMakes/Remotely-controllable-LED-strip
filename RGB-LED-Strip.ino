@@ -24,7 +24,7 @@
 void outputChanged(uint8_t activeOutputs);
 
 Adafruit_NeoPixel ledStrip(LED_COUNT, LED_PIN, NEO_GRB + NEO_KHZ800);
-AnimatedLedStripe animatedStrip(ledStrip);
+AnimatedLedStrip animatedStrip(ledStrip);
 IR2IO ir2io(12, 11, 10, 9, outputChanged);
 
 void setup() {
